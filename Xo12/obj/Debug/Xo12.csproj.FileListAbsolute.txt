@@ -1,0 +1,121 @@
+D:\C# Project\New folder\Xo12\Xo12\bin\Debug\Xo12.exe.config
+D:\C# Project\New folder\Xo12\Xo12\bin\Debug\Xo12.exe
+D:\C# Project\New folder\Xo12\Xo12\bin\Debug\Xo12.pdb
+D:\C# Project\New folder\Xo12\Xo12\obj\Debug\Xo12.csprojResolveAssemblyReference.cache
+D:\C# Project\New folder\Xo12\Xo12\obj\Debug\Xo12.Form1.resources
+D:\C# Project\New folder\Xo12\Xo12\obj\Debug\Xo12.Properties.Resources.resources
+D:\C# Project\New folder\Xo12\Xo12\obj\Debug\Xo12.csproj.GenerateResource.Cache
+D:\C# Project\New folder\Xo12\Xo12\obj\Debug\Xo12.exe
+D:\C# Project\New folder\Xo12\Xo12\obj\Debug\Xo12.pdb
+F:\C#\Xo12\Xo12\bin\Debug\Xo12.exe.config
+F:\C#\Xo12\Xo12\obj\Debug\Xo12.exe
+F:\C#\Xo12\Xo12\obj\Debug\Xo12.pdb
+F:\C#\Xo12\Xo12\bin\Debug\Xo12.exe
+F:\C#\Xo12\Xo12\bin\Debug\Xo12.pdb
+F:\C#\Xo12\Xo12\obj\Debug\Xo12.csprojResolveAssemblyReference.cache
+F:\C#\Xo12\Xo12\obj\Debug\Xo12.Form1.resources
+F:\C#\Xo12\Xo12\obj\Debug\Xo12.Properties.Resources.resources
+F:\C#\Xo12\Xo12\obj\Debug\Xo12.csproj.GenerateResource.Cache
+I:\C#\Xo12\Xo12\bin\Debug\Xo12.exe.config
+I:\C#\Xo12\Xo12\obj\Debug\Xo12.exe
+I:\C#\Xo12\Xo12\obj\Debug\Xo12.pdb
+I:\C#\Xo12\Xo12\bin\Debug\Xo12.exe
+I:\C#\Xo12\Xo12\bin\Debug\Xo12.pdb
+I:\C#\Xo12\Xo12\obj\Debug\Xo12.csprojResolveAssemblyReference.cache
+I:\C#\Xo12\Xo12\obj\Debug\Xo12.Form1.resources
+I:\C#\Xo12\Xo12\obj\Debug\Xo12.Properties.Resources.resources
+I:\C#\Xo12\Xo12\obj\Debug\Xo12.csproj.GenerateResource.Cache
+D:\C# Project\Xo12\Xo12\bin\Debug\Xo12.exe.config
+D:\C# Project\Xo12\Xo12\obj\Debug\Xo12.exe
+D:\C# Project\Xo12\Xo12\obj\Debug\Xo12.pdb
+D:\C# Project\Xo12\Xo12\bin\Debug\Xo12.exe
+D:\C# Project\Xo12\Xo12\bin\Debug\Xo12.pdb
+D:\C# Project\Xo12\Xo12\obj\Debug\Xo12.csprojResolveAssemblyReference.cache
+D:\C# Project\Xo12\Xo12\obj\Debug\Xo12.Form1.resources
+D:\C# Project\Xo12\Xo12\obj\Debug\Xo12.Properties.Resources.resources
+D:\C# Project\Xo12\Xo12\obj\Debug\Xo12.csproj.GenerateResource.Cache
+I:\C#\Xo122\Xo12\bin\Debug\Xo12.exe.config
+I:\C#\Xo122\Xo12\obj\Debug\Xo12.exe
+I:\C#\Xo122\Xo12\obj\Debug\Xo12.pdb
+F:\C#\Xo122\Xo12\bin\Debug\Xo12.exe.config
+F:\C#\Xo122\Xo12\obj\Debug\Xo12.exe
+F:\C#\Xo122\Xo12\obj\Debug\Xo12.pdb
+F:\C#\Xo122\Xo12\bin\Debug\Xo12.exe
+F:\C#\Xo122\Xo12\bin\Debug\Xo12.pdb
+F:\C#\Xo122\Xo12\obj\Debug\Xo12.csprojResolveAssemblyReference.cache
+F:\C#\Xo122\Xo12\obj\Debug\Xo12.Form1.resources
+F:\C#\Xo122\Xo12\obj\Debug\Xo12.Properties.Resources.resources
+F:\C#\Xo122\Xo12\obj\Debug\Xo12.csproj.GenerateResource.Cache
+H:\C#\Xo122\Xo12\bin\Debug\Xo12.exe.config
+H:\C#\Xo122\Xo12\obj\Debug\Xo12.exe
+H:\C#\Xo122\Xo12\obj\Debug\Xo12.pdb
+H:\C#\Xo122\Xo12\bin\Debug\Xo12.exe
+H:\C#\Xo122\Xo12\bin\Debug\Xo12.pdb
+H:\C#\Xo122\Xo12\obj\Debug\Xo12.csprojResolveAssemblyReference.cache
+H:\C#\Xo122\Xo12\obj\Debug\Xo12.Form1.resources
+H:\C#\Xo122\Xo12\obj\Debug\Xo12.Properties.Resources.resources
+H:\C#\Xo122\Xo12\obj\Debug\Xo12.csproj.GenerateResource.Cache
+H:\C#\Xo122\Xo12\obj\Debug\Xo12.Form2.resources
+F:\C#\Xo122\Xo12\obj\Debug\Xo12.Form2.resources
+I:\C#\Xo122\Xo12\bin\Debug\Xo12.exe
+I:\C#\Xo122\Xo12\bin\Debug\Xo12.pdb
+I:\C#\Xo122\Xo12\obj\Debug\Xo12.csprojResolveAssemblyReference.cache
+I:\C#\Xo122\Xo12\obj\Debug\Xo12.Form1.resources
+I:\C#\Xo122\Xo12\obj\Debug\Xo12.Form2.resources
+I:\C#\Xo122\Xo12\obj\Debug\Xo12.Properties.Resources.resources
+I:\C#\Xo122\Xo12\obj\Debug\Xo12.csproj.GenerateResource.Cache
+I:\C#\Xo122\Xo12\obj\Debug\Xo12.Form3.resources
+I:\C#\Xo122\Xo12\obj\Debug\Xo12.Form4.resources
+F:\C#\Xo122\Xo12\obj\Debug\Xo12.Form3.resources
+F:\C#\Xo122\Xo12\obj\Debug\Xo12.Form4.resources
+H:\C#\Xo122\Xo12\obj\Debug\Xo12.Form3.resources
+H:\C#\Xo122\Xo12\obj\Debug\Xo12.Form4.resources
+D:\C#Project\Xoکامل\Xo12\bin\Debug\Xo12.exe.config
+D:\C#Project\Xoکامل\Xo12\obj\Debug\Xo12.exe
+D:\C#Project\Xoکامل\Xo12\obj\Debug\Xo12.pdb
+D:\C#Project\Xoکامل\Xo12\bin\Debug\Xo12.exe
+D:\C#Project\Xoکامل\Xo12\bin\Debug\Xo12.pdb
+D:\C#Project\Xoکامل\Xo12\obj\Debug\Xo12.csprojResolveAssemblyReference.cache
+D:\C#Project\Xoکامل\Xo12\obj\Debug\Xo12.Form1.resources
+D:\C#Project\Xoکامل\Xo12\obj\Debug\Xo12.Form2.resources
+D:\C#Project\Xoکامل\Xo12\obj\Debug\Xo12.Form3.resources
+D:\C#Project\Xoکامل\Xo12\obj\Debug\Xo12.Form4.resources
+D:\C#Project\Xoکامل\Xo12\obj\Debug\Xo12.Properties.Resources.resources
+D:\C#Project\Xoکامل\Xo12\obj\Debug\Xo12.csproj.GenerateResource.Cache
+D:\C# Project\Xoکامل\Xo12\bin\Debug\Xo12.exe.config
+D:\C# Project\Xoکامل\Xo12\obj\Debug\Xo12.exe
+D:\C# Project\Xoکامل\Xo12\obj\Debug\Xo12.pdb
+D:\C# Project\Xoکامل\Xo12\bin\Debug\Xo12.exe
+D:\C# Project\Xoکامل\Xo12\bin\Debug\Xo12.pdb
+D:\C# Project\Xoکامل\Xo12\obj\Debug\Xo12.csprojResolveAssemblyReference.cache
+D:\C# Project\Xoکامل\Xo12\obj\Debug\Xo12.Form1.resources
+D:\C# Project\Xoکامل\Xo12\obj\Debug\Xo12.Form2.resources
+D:\C# Project\Xoکامل\Xo12\obj\Debug\Xo12.Form3.resources
+D:\C# Project\Xoکامل\Xo12\obj\Debug\Xo12.Form4.resources
+D:\C# Project\Xoکامل\Xo12\obj\Debug\Xo12.Properties.Resources.resources
+D:\C# Project\Xoکامل\Xo12\obj\Debug\Xo12.csproj.GenerateResource.Cache
+D:\C#Project\Xoاصلی\Xo12\bin\Debug\Xo12.exe.config
+D:\C#Project\Xoاصلی\Xo12\obj\Debug\Xo12.exe
+D:\C#Project\Xoاصلی\Xo12\obj\Debug\Xo12.pdb
+D:\C#Project\Xoاصلی\Xo12\bin\Debug\Xo12.exe
+D:\C#Project\Xoاصلی\Xo12\bin\Debug\Xo12.pdb
+D:\C#Project\Xoاصلی\Xo12\obj\Debug\Xo12.csprojResolveAssemblyReference.cache
+D:\C#Project\Xoاصلی\Xo12\obj\Debug\Xo12.Form1.resources
+D:\C#Project\Xoاصلی\Xo12\obj\Debug\Xo12.Form2.resources
+D:\C#Project\Xoاصلی\Xo12\obj\Debug\Xo12.Form3.resources
+D:\C#Project\Xoاصلی\Xo12\obj\Debug\Xo12.Form4.resources
+D:\C#Project\Xoاصلی\Xo12\obj\Debug\Xo12.Properties.Resources.resources
+D:\C#Project\Xoاصلی\Xo12\obj\Debug\Xo12.csproj.GenerateResource.Cache
+D:\پروژه\xo\Xoاصلی\Xo12\bin\Debug\Xo12.exe.config
+D:\پروژه\xo\Xoاصلی\Xo12\bin\Debug\Xo12.exe
+D:\پروژه\xo\Xoاصلی\Xo12\bin\Debug\Xo12.pdb
+D:\پروژه\xo\Xoاصلی\Xo12\obj\Debug\Xo12.csproj.AssemblyReference.cache
+D:\پروژه\xo\Xoاصلی\Xo12\obj\Debug\Xo12.Form1.resources
+D:\پروژه\xo\Xoاصلی\Xo12\obj\Debug\Xo12.Form2.resources
+D:\پروژه\xo\Xoاصلی\Xo12\obj\Debug\Xo12.Form3.resources
+D:\پروژه\xo\Xoاصلی\Xo12\obj\Debug\Xo12.Form4.resources
+D:\پروژه\xo\Xoاصلی\Xo12\obj\Debug\Xo12.Properties.Resources.resources
+D:\پروژه\xo\Xoاصلی\Xo12\obj\Debug\Xo12.csproj.GenerateResource.cache
+D:\پروژه\xo\Xoاصلی\Xo12\obj\Debug\Xo12.csproj.CoreCompileInputs.cache
+D:\پروژه\xo\Xoاصلی\Xo12\obj\Debug\Xo12.exe
+D:\پروژه\xo\Xoاصلی\Xo12\obj\Debug\Xo12.pdb
